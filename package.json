@@ -1,7 +1,7 @@
 {
-  "name": "jsplumb",
-  "version": "2.0.5",
-  "description": "Visual connectivity for webapps",
+  "name": "jsplumb-webjar",
+  "version": "2.0.5.1",
+  "description": "sporritt/jsPlumb fork for webjars",
   "main": "dist/js/jsPlumb-2.0.5.js",
   "directories": {
     "doc": "doc",
@@ -63,7 +63,7 @@
     ]
   ],
   "author": "Simon Porritt",
-  "license": "MIT/GPL2",
+  "license": "/jsPlumb-LICENSE.txt",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-clean": "~0.5.0",
